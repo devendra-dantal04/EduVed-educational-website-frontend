@@ -12,8 +12,7 @@
 ### Links
 
 - Solution URL: [solution URL](https://github.com/devendra-dantal04/EduVed-educational-website-frontend)
-- Live Site URL: [Live Preview](https://frontend-product-preview-card.netlify.app)
-
+- Live Site URL: [Live Preview](https://eduved-educatinalhub.netlify.app)
 ## Author
 
 - Website - [Devendra Dantal]
